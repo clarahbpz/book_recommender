@@ -2,7 +2,7 @@
 
 A collaborative filtering recommendation system built with Python, utilizing the Goodreads dataset to suggest books based on user preference patterns and vector similarity.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://seu-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://bookrecommender-ik2dc8wpqudqkjzjcu6zkz.streamlit.app/)
 
 ## Project Overview
 This project implements an item-based collaborative filtering algorithm. It processes the included Goodreads dataset and simulates user interactions to build a mathematical model capable of identifying similar items in a multi-dimensional space. The solution is encapsulated in an Object-Oriented (OOP) architecture to ensure scalability and memory efficiency.
